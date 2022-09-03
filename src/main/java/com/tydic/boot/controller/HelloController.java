@@ -10,7 +10,7 @@ public class HelloController {
 
     @RequestMapping("/hello11")
     public String handle01(){
-        return "Hello，spring Boot 2！ 31";
+        return "Hello，spring Boot 2！ 31pushTest";
     }
 
 }
